@@ -1,2 +1,2 @@
-# usaco-bronze
-USACO Bronze problem solving
+# usaco
+USACO problem solving
