@@ -1,2 +1,2 @@
-# usaco
-USACO problem solving
+# programming
+USACO and Codeforces problem solving
