@@ -1,2 +1,2 @@
-# usaco
-USACO problem solving
+# algo
+Algorithmic problem solving
