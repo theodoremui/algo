@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CowEvolution",
+            "request": "launch",
+            "mainClass": "CowEvolution",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "Race",
+            "request": "launch",
+            "mainClass": "Race",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "MixingMilk",
+            "request": "launch",
+            "mainClass": "MixingMilk",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "ShellGame",
+            "request": "launch",
+            "mainClass": "ShellGame",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "LogicalMoos",
+            "request": "launch",
+            "mainClass": "bronze.LogicalMoos",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
