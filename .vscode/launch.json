@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IrreducibleAnagrams",
+            "request": "launch",
+            "mainClass": "IrreducibleAnagrams",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "RunningMiles",
+            "request": "launch",
+            "mainClass": "RunningMiles",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "GoodSubarrays",
+            "request": "launch",
+            "mainClass": "GoodSubarrays",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "HaybaleStacking",
+            "request": "launch",
+            "mainClass": "HaybaleStacking",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "Sevens",
+            "request": "launch",
+            "mainClass": "Sevens",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
+            "name": "StaticRangeSum",
+            "request": "launch",
+            "mainClass": "StaticRangeSum",
+            "projectName": "algo_b18e3c30"
+        },
+        {
+            "type": "java",
             "name": "CowEvolution",
             "request": "launch",
             "mainClass": "CowEvolution",
